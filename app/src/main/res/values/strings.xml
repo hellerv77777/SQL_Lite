@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQL_Lite</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="contrasena">123</string>
+    <string name="user">user</string>
+    <string name="error_user">Ingrese Usuario</string>
+    <string name="error_pass">Ingrese Contrasena</string>
+    <string name="register_user">Registrar Usuario</string>
+    <string name="show_user_list">Mostrar Usuario</string>
+    <string name="api_data">Capturar Datos</string>
+    <string name="about_">Acerca De</string>
+    <string name="registrar_usaurios">REGISTRAR USAURIOS</string>
+</resources>
